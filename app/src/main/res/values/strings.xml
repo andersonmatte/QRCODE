@@ -1,3 +1,11 @@
 <resources>
-    <string name="app_name">QR Barcode Scanner</string>
+    <string name="app_name">Leitor de QR Code</string>
+    <string name="permissao_concedida">Permissão concedida! Agora você pode acessar a câmera.</string>
+    <string name="permissao_negada">Permissão negada! você não pode acessar a câmera.</string>
+    <string name="permissao_existente">Permissão já concedida!</string>
+    <string name="permissao_ambas">Você precisa permitir o acesso a ambas as permissões.</string>
+    <string name="title">Resultado Scan</string>
+    <string name="ok">OK</string>
+    <string name="cancelar">Cancelar</string>
+    <string name="acessar">Acessar Resultado</string>
 </resources>
